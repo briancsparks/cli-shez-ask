@@ -1,0 +1,15 @@
+{
+  "name": "cli-shez-ask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "bin": {
+    "cli-shez-ask.js": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brian C Sparks",
+  "license": "MIT"
+}
